@@ -26,7 +26,7 @@ USER_AGENT = (
 )
 REQUEST_TIMEOUT = 10  # seconds
 
-st.set_page_config(page_title="", layout="wide")
+st.set_page_config(page_title="", layout="centered")
 
 # ---------------------------
 # Helper functions
